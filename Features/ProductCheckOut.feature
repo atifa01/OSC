@@ -13,5 +13,5 @@ Then I see sign in page apprears
 
 Examples: 
 |brand name		|
-|microsoft 	    |
+|microsoft      |
 |samsung 	    |
